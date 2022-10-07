@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB_0930</string>
+    <string name="test">請輸入姓名已開始遊戲</string>
+    <string name="buttom">勝利者</string>
+    <string name="stone">猜拳</string>
+    <string name="sisser">剪刀</string>
+    <string name="stone1">石頭</string>
+    <string name="paper">布</string>
+</resources>
